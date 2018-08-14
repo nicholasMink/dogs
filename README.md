@@ -1,7 +1,16 @@
-# DTIF Dev Frontend Homework
-## An example using jQuery's AJAX and Socrata SODA API
+## Dangerous Dogs in ATX
 
-### To get started:
+This is a react application that displays confirmed dogs that are dangerous in and around Austin, Texas. It uses the official City of Austin open data portal to retrieve data.
 
-- Run a local server or open the index.html file in your browser.
-- Find `TODO:`s in the code and build from there.
+### Getting Started
+After you clone the project, you can startup the development server.
+
+``` bash
+cd dangerous-dogs
+```
+``` bash
+yarn
+```
+``` bash
+yarn start
+```
